@@ -102,6 +102,7 @@ color: #A3A274;
 background-color: #3A2900;
 color: #A3A274;
 padding: 	10px ;
+text-size: 5px;
 }
 
 .photo_credit {
@@ -115,4 +116,10 @@ h1{
 	color: #A3A274;
 	padding: 10px;
 	text-transform: uppercase;
+}
+
+.textstyle {
+	color: #A3A274;
+	padding: 5px;
+	margin: 10px;	
 }
